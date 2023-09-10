@@ -1,0 +1,5 @@
+Staff{name=Kgodiso Mashile, staffNo=11111}
+Staff{name=Kgodiso Mashile, staffNo=11111}
+Staff{name=Kgodiso Mashile, staffNo=123456}
+Staff{name=Kgodiso Mashile, staffNo=111111}
+Staff{name=Kgodiso Mashile, staffNo=1234567}
